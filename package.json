@@ -1,0 +1,30 @@
+{
+  "name": "compile-after-compress",
+  "version": "1.0.0",
+  "description": "''",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liuc601/compile-after-compress.git"
+  },
+  "keywords": [
+    "compile",
+    "after",
+    "compress",
+    "file",
+    "to",
+    "zip"
+  ],
+  "author": "liu sha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuc601/compile-after-compress/issues"
+  },
+  "homepage": "https://github.com/liuc601/compile-after-compress#readme",
+  "devDependencies": {
+    "zip-local": "^0.3.4"
+  }
+}
